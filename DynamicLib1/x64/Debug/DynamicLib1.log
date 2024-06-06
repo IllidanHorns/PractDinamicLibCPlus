@@ -1,0 +1,6 @@
+﻿  DynamicLib.cpp
+D:\Users\illid\source\PractCPlusDynamicLib\DynamicLib1\DynamicLib.cpp(14,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Users\illid\source\PractCPlusDynamicLib\DynamicLib1\DynamicLib.cpp(14,22): error C2065: dllexport: необъявленный идентификатор
+D:\Users\illid\source\PractCPlusDynamicLib\DynamicLib1\DynamicLib.cpp(14,33): error C2062: тип "int" не требуется
+D:\Users\illid\source\PractCPlusDynamicLib\DynamicLib1\DynamicLib.cpp(15,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\Users\illid\source\PractCPlusDynamicLib\DynamicLib1\DynamicLib.cpp(15,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
